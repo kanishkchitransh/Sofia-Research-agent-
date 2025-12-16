@@ -1,0 +1,7 @@
+{
+  "name": "Sofia Research Agent",
+  "description": "A calm, competitive research assistant for literature review, citation intelligence, and research gap analysis using Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
