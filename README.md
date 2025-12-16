@@ -106,4 +106,3 @@ When a user asks a question, Sofia routes the request through a decision layer:
 
 ---
 
-*Built with ❤️ and NLP by [Your Name].*
